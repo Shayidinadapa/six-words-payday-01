@@ -1,5 +1,9 @@
 # Six Words to a Payday
 
+[![make.fun](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f.svg)](https://make.fun/c/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+[![Rank](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/Shayidinadapa/six-words-payday-01/rank.svg)](https://make.fun/c/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+[![Reward](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/Shayidinadapa/six-words-payday-01/reward.svg)](https://make.fun/c/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+
 [Make.fun bounty](https://make.fun/c/u-irvan-motion-six-words-to-a-payday-89fb591f) · [Node.js 22](https://nodejs.org/en) · [MIT License](https://opensource.org/licenses/MIT)
 
 A six-word story about an AI agent's first payday, written for the
